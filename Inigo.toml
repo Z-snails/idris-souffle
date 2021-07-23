@@ -1,0 +1,16 @@
+ns = "Foreign"
+package = "Souffle"
+version = "0.0.1"
+
+depends = []
+description = ""
+license = ""
+link = ""
+modules = ["Souffle", "Souffle.Foreign"]
+readme = ""
+sourcedir = "src"
+
+[deps]
+
+[dev-deps]
+Base.IdrTest = "~0.0.1"

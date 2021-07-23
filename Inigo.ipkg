@@ -1,0 +1,9 @@
+package Souffle
+
+modules = Souffle.Foreign, Souffle 
+
+
+sourcedir = "src"
+builddir = "build"
+
+version = 0.0.1
